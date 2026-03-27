@@ -38,7 +38,7 @@
   <h2>Contato</h2>
 </div>
 <div align="center">
-  <a href="https://linkedin.com/in/www.linkedin.com/in/gabriel-gomes-054275302" target="_blank">
+  <a href="https://linkedin.com/in/gabriel-gomes-054275302" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
   <a href="mailto:gabri02gomes@gmail.com">
